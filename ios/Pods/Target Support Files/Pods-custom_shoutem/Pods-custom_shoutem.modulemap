@@ -1,0 +1,6 @@
+module Pods_custom_shoutem {
+  umbrella header "Pods-custom_shoutem-umbrella.h"
+
+  export *
+  module * { export * }
+}
